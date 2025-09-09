@@ -6,4 +6,5 @@ been installed yet.
 Keep this repo up to date then install it in one fell upload. 
 
 # Style Guide
-Discord replaces dashes (`-`) in filenames with (``), so don't use dashes in filenames, use underscores or mashcase - it's probably best to use whichever of those two slackmojis uses. 
+Discord deletes dashes in filenames, so don't use dashes in filenames. 
+Use underscores or mashcase - it's probably best to use whichever of those two slackmojis uses. 
